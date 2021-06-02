@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PureduxSideEffects",
+        "repositoryURL": "https://github.com/KazaiMazai/PureduxSideEffects.git",
+        "state": {
+          "branch": "dev",
+          "revision": "19a2c1a5cbd867e564fdbd1e18be741364e4176a",
+          "version": null
+        }
+      },
+      {
+        "package": "PureduxStore",
+        "repositoryURL": "https://github.com/KazaiMazai/PureduxStore.git",
+        "state": {
+          "branch": "dev",
+          "revision": "2ebb8d3766be2e352dbc6a3bc52062f8f7b00c26",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
